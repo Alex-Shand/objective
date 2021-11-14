@@ -1,0 +1,5 @@
+error: All trait methods must accept &self or &mut self
+ --> test/fail/move_self.rs:3:13
+  |
+3 |     fn test(self);
+  |             ^^^^
