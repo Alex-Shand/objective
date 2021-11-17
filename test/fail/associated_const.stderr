@@ -1,0 +1,5 @@
+error: Objective only supports types and functions in traits
+ --> test/fail/associated_const.rs:3:5
+  |
+3 |     const CONST: usize;
+  |     ^^^^^

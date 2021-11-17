@@ -1,0 +1,5 @@
+error: Static trait methods aren't object safe
+ --> test/fail/static_args.rs:3:5
+  |
+3 |     fn test(a: A, b: B, c: C) -> D {
+  |     ^^
