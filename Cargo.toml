@@ -10,4 +10,3 @@ proc-macro = true
 
 [dependencies]
 proc = { git = "https://github.com/Alex-Shand/proc" }
-#syntax-abuse = { git = "https://github.com/Alex-Shand/syntax-abuse" }
